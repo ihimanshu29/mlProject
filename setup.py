@@ -22,6 +22,5 @@ setup(
     version='0.0.1',
     author='Himanshu',
     author_email='himanshuawasthi.2999@gmail.com',
-    packages=find_packages(),
-    install_requires=get_Requirements('requirements.txt')
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 ) 
